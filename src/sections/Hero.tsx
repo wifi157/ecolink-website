@@ -127,8 +127,6 @@ export function Hero() {
         ref={headlineRef}
         className="relative z-20 text-center px-6 max-w-4xl mx-auto pt-20"
       >
-        <span className="eyebrow mb-6 block text-[#3CB371]">RECYMRU ECOSYSTEM</span>
-        
         <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold text-white mb-6 leading-tight">
           <span className="word inline-block">Wales'</span>{' '}
           <span className="word inline-block gradient-text">Sustainable</span>{' '}
