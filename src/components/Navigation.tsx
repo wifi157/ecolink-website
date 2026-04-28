@@ -74,7 +74,7 @@ export function Navigation({ isAuthenticated = false, userRole = null }: Navigat
             <div className="w-10 h-10 rounded-xl overflow-hidden group-hover:scale-105 transition-transform">
               <img src="/logo.png" alt="Recymru" className="w-full h-full object-cover" />
             </div>
-            <span className="text-xl font-bold text-white font-heading">EcoLink</span>
+            <span className="text-xl font-bold text-white font-heading">Recymru</span>
           </Link>
 
           {/* Desktop Navigation */}
